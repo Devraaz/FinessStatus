@@ -4,11 +4,11 @@ import numpy as np
 import pickle
 from statistics import mode
 
-le_g = pickle.load(open("le_g.pkl", 'rb'))
-le_s = pickle.load(open("le_s.pkl", 'rb'))
-lr = pickle.load(open("lr.pkl", 'rb'))
-svc = pickle.load(open("svc.pkl", 'rb'))
-rf = pickle.load(open("rf.pkl", 'rb'))
+le_g = pickle.load(open('le_g.pkl', 'rb'))
+le_s = pickle.load(open('le_s.pkl', 'rb'))
+lr = pickle.load(open('lr.pkl', 'rb'))
+svc = pickle.load(open('svc.pkl', 'rb'))
+rf = pickle.load(open('rf.pkl', 'rb'))
 df = pd.read_csv("fitness_dataset.csv")
 
 st.title("🚴 Check your Fitness Status")
