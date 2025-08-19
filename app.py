@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import pickle
 from statistics import mode
-from sklearn.preprocessing import LabelEncoder
 
 le_g = pickle.load(open("le_g.pkl", 'rb'))
 le_s = pickle.load(open("le_s.pkl", 'rb'))
