@@ -97,13 +97,13 @@ streamlit run app.py
 
 ## 🔗 Live Demo
 
-👉 [Click here to try it out on Streamlit](https://devraaz-fitness-status.streamlit.app/)
+👉 [Click here to try it out on Streamlit](https://devraaz-finessstatus.streamlit.app/)
 
 ---
 
 ## 💻 GitHub Repo
 
-🔗 [View Full Source Code on GitHub](https://github.com/Devraaz/Fitness-Status)
+🔗 [View Full Source Code on GitHub](https://github.com/Devraaz/FinessStatus)
 
 ## 🙋‍♂️ Author
 
